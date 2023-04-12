@@ -1,0 +1,9 @@
+*.csv
+*.parquet
+*.xlsx
+
+# Local .terraform directories
+**/.terraform/*
+.venv
+.terraform
+.DS_Store
